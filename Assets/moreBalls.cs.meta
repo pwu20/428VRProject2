@@ -4,9 +4,8 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - startPosRot: {fileID: 4046858945843585615, guid: 49388a437c29246adbe0dff0c77d3596,
-      type: 3}
-  - ball: {fileID: 3507460068903439426, guid: 49388a437c29246adbe0dff0c77d3596, type: 3}
+  - startPosRot: {instanceID: 0}
+  - ball: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
