@@ -23,7 +23,7 @@ public class buttonscript : MonoBehaviour
 	
 	public void OnButtonPressed(VirtualButtonBehaviour vh){
 		typing.Stop();
-		animation.Play("sad");
+		animation.Play("disbelief");
 		recording.Play();
 		Debug.Log("button pressed");
 		typing.Play();
